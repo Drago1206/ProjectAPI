@@ -1,0 +1,12 @@
+# Archivos y directorios que deben ser ignorados por Git
+#Directiorio crado por Visual Studio
+.vs
+
+#Directorio de archivos temporales de la compilación
+*/obj/
+
+#Archivos de salida de compilación
+*/bin/
+
+#backup de la base de datos
+syscomTest.bak
